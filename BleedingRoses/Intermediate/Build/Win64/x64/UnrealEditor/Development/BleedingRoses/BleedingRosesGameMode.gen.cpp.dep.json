@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dpres\\documents\\projects\\bleedingroses\\bleedingroses\\intermediate\\build\\win64\\unrealeditor\\inc\\bleedingroses\\uht\\bleedingrosesgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dpres\\documents\\projects\\bleedingroses\\bleedingroses\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bleedingroses\\definitions.bleedingroses.h",
+            "c:\\users\\dpres\\documents\\projects\\bleedingroses\\bleedingroses\\source\\bleedingroses\\bleedingrosesgamemode.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\users\\dpres\\documents\\projects\\unrealagain\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\dpres\\documents\\projects\\bleedingroses\\bleedingroses\\intermediate\\build\\win64\\unrealeditor\\inc\\bleedingroses\\uht\\bleedingrosesgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

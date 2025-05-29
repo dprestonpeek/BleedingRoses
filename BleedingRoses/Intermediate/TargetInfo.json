@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BleedingRoses",
+			"Path": "..\\Source\\BleedingRoses.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BleedingRosesEditor",
+			"Path": "..\\Source\\BleedingRosesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
