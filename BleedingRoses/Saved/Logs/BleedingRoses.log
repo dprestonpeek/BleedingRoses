@@ -8857,3 +8857,812 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.23-18.10.40:315][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
 [2025.06.23-18.10.40:335][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
 [2025.06.23-18.10.40:347][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.432 ms (total: 6.10 sec)
+[2025.06.23-18.12.08:955][160]Cmd: EDIT COPY
+[2025.06.23-18.12.09:205][175]Cmd: EDIT PASTE
+[2025.06.23-18.13.48:148][538]Cmd: EDIT COPY
+[2025.06.23-18.13.48:330][552]Cmd: EDIT PASTE
+[2025.06.23-18.14.15:707][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.14.15:774][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.06.23-18.14.15:797][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.14.15:815][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.23-18.14.15:818][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/8/PT/45RI6QLTBKPHD969KT1D1K
+[2025.06.23-18.14.15:818][485]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/45RI6QLTBKPHD969KT1D1K18A9269A4C95A9D2001C74B718693176.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/8/PT/45RI6QLTBKPHD969KT1D1K.uasset'
+[2025.06.23-18.14.15:820][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/E/ID/VBPIBQTXKDFUTIZNH4AL0E
+[2025.06.23-18.14.15:821][485]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/VBPIBQTXKDFUTIZNH4AL0E71A88CCD4D0B659C6DA2699C32296865.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/E/ID/VBPIBQTXKDFUTIZNH4AL0E.uasset'
+[2025.06.23-18.14.15:822][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/7/Y2/LIMC86UHUP98XTDYJRVM6Y
+[2025.06.23-18.14.15:822][485]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/LIMC86UHUP98XTDYJRVM6Y2FC215414AFAE90A83F593BD185DDA34.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/7/Y2/LIMC86UHUP98XTDYJRVM6Y.uasset'
+[2025.06.23-18.14.15:824][485]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/Maps/L1_WinterForest/0/IM/T9UU0VN1MYNWRTF6RN9BPG] ([1] browsable assets)...
+[2025.06.23-18.14.15:824][485]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/Maps/L1_WinterForest/0/IM/T9UU0VN1MYNWRTF6RN9BPG]
+[2025.06.23-18.14.15:825][485]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Maps/L1_WinterForest/0/IM/T9UU0VN1MYNWRTF6RN9BPG
+[2025.06.23-18.14.15:825][485]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/T9UU0VN1MYNWRTF6RN9BPG28AD82414963201B12548E9A8DB22B00.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalObjects__/Maps/L1_WinterForest/0/IM/T9UU0VN1MYNWRTF6RN9BPG.uasset'
+[2025.06.23-18.14.15:827][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/B/YH/N3XPKSF7XPGD0KS0ZZ74MM
+[2025.06.23-18.14.15:827][485]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/N3XPKSF7XPGD0KS0ZZ74MM28344FDA48ED100F0B67D0AE04848645.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/B/YH/N3XPKSF7XPGD0KS0ZZ74MM.uasset'
+[2025.06.23-18.14.15:835][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.748 ms (total: 6.23 sec)
+[2025.06.23-18.14.15:859][485]LogContentValidation: Display: Starting to validate 5 assets
+[2025.06.23-18.14.15:859][485]LogContentValidation: Enabled validators:
+[2025.06.23-18.14.15:859][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.14.15:859][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.14.15:859][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.14.15:859][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.14.15:859][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.14.15:859][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.14.15:861][485]AssetCheck: /Game/Maps/L1_WinterForest Validating asset
+[2025.06.23-18.14.53:632][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.14.53:693][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.14.53:717][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.06.23-18.14.53:738][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.06.23-18.14.53:740][452]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/B/YH/N3XPKSF7XPGD0KS0ZZ74MM
+[2025.06.23-18.14.53:740][452]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/N3XPKSF7XPGD0KS0ZZ74MMB7241BFA49EF39A2A2EEE1B1CCF8EC2F.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/B/YH/N3XPKSF7XPGD0KS0ZZ74MM.uasset'
+[2025.06.23-18.14.53:748][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.356 ms (total: 6.35 sec)
+[2025.06.23-18.14.53:773][452]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.14.53:773][452]LogContentValidation: Enabled validators:
+[2025.06.23-18.14.53:773][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.14.53:773][452]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.14.53:773][452]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.14.53:773][452]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.14.53:773][452]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.14.53:773][452]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.14.53:774][452]AssetCheck: /Game/Maps/L1_WinterForest Validating asset
+[2025.06.23-18.15.00:036][947]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6158.575684
+[2025.06.23-18.15.00:126][954]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-18.15.00:126][954]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6158.651367, Update Interval: 325.520203
+[2025.06.23-18.15.00:473][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.15.00:537][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.06.23-18.15.00:558][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.23-18.15.00:578][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.23-18.15.00:580][982]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/B/YH/N3XPKSF7XPGD0KS0ZZ74MM
+[2025.06.23-18.15.00:580][982]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/N3XPKSF7XPGD0KS0ZZ74MM8D30830D46C3461BD4C526AC8E107A9D.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/B/YH/N3XPKSF7XPGD0KS0ZZ74MM.uasset'
+[2025.06.23-18.15.00:588][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.356 ms (total: 6.46 sec)
+[2025.06.23-18.15.00:612][982]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.15.00:612][982]LogContentValidation: Enabled validators:
+[2025.06.23-18.15.00:612][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.15.00:612][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.15.00:612][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.15.00:612][982]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.15.00:612][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.15.00:612][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.15.00:612][982]AssetCheck: /Game/Maps/L1_WinterForest Validating asset
+[2025.06.23-18.15.10:204][731]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.23-18.15.10:213][731]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.23-18.15.10:224][732]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.23-18.15.12:337][903]LogContentBrowser: Attempting asset rename: NewFolder -> Triggers
+[2025.06.23-18.15.12:338][903]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.23-18.15.29:551][329]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.06.23-18.15.29:558][329]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.06.23-18.15.29:567][329]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.06.23-18.15.29:569][329]LogAutomationController: Ignoring very large delta of 11.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.23-18.15.29:585][331]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.06.23-18.15.43:667][474]LogContentBrowser: Attempting asset rename: NewBlueprint -> WolfDeerEventTrigger
+[2025.06.23-18.15.43:673][474]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.06.23-18.15.45:845][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.15.45:892][650]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Triggers/WolfDeerEventTrigger] ([2] browsable assets)...
+[2025.06.23-18.15.45:892][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triggers/WolfDeerEventTrigger]
+[2025.06.23-18.15.45:892][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triggers/WolfDeerEventTrigger" FILE="../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset" SILENT=true
+[2025.06.23-18.15.45:893][650]LogSavePackage: Moving output files for package: /Game/Triggers/WolfDeerEventTrigger
+[2025.06.23-18.15.45:894][650]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfDeerEventTrigger674D9F0D42065264A0BBAC92292E45A4.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset'
+[2025.06.23-18.15.45:903][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.644 ms (total: 6.52 sec)
+[2025.06.23-18.15.45:927][650]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.15.45:927][650]LogContentValidation: Enabled validators:
+[2025.06.23-18.15.45:927][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.15.45:927][650]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.15.45:927][650]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.15.45:927][650]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.15.45:927][650]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.15.45:927][650]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.15.45:927][650]AssetCheck: /Game/Triggers/WolfDeerEventTrigger Validating asset
+[2025.06.23-18.15.50:645][ 28]Cmd: EDIT COPY
+[2025.06.23-18.15.51:575][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger
+[2025.06.23-18.15.51:577][103]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.06.23-18.15.53:251][187]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.15.53:279][187]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.02:242][775]LogStreaming: Display: FlushAsyncLoading(2465): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.23-18.16.02:245][775]LogStaticMesh: Display: Building static mesh Pillar_50x500 (Required Memory Estimate: 0.064754 MB)...
+[2025.06.23-18.16.02:246][775]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500
+[2025.06.23-18.16.02:249][775]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.02:250][775]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.02:255][775]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.06.23-18.16.02:262][775]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_10:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.02:285][775]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.14:264][499]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_10:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.14:264][499]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.14:265][499]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.14:265][499]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_10:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.14:282][499]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Engine/Transient.World_9:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.16:766][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.16.16:788][644]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Triggers/WolfDeerEventTrigger] ([2] browsable assets)...
+[2025.06.23-18.16.16:798][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger]
+[2025.06.23-18.16.16:798][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triggers/WolfDeerEventTrigger]
+[2025.06.23-18.16.16:798][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triggers/WolfDeerEventTrigger" FILE="../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset" SILENT=true
+[2025.06.23-18.16.16:801][644]LogSavePackage: Moving output files for package: /Game/Triggers/WolfDeerEventTrigger
+[2025.06.23-18.16.16:801][644]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfDeerEventTriggerDF207A554F82F591FCA53693AB9FE87E.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset'
+[2025.06.23-18.16.16:809][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.866 ms (total: 6.56 sec)
+[2025.06.23-18.16.16:835][644]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.16.16:835][644]LogContentValidation: Enabled validators:
+[2025.06.23-18.16.16:835][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.16.16:835][644]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.16.16:835][644]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.16.16:835][644]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.16.16:835][644]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.16.16:835][644]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.16.16:835][644]AssetCheck: /Game/Triggers/WolfDeerEventTrigger Validating asset
+[2025.06.23-18.16.23:835][108]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger_C
+[2025.06.23-18.16.23:835][108]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger_C
+[2025.06.23-18.16.23:835][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:837][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:837][108]LogActorFactory: Actor Factory spawned Blueprint /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger as actor: WolfDeerEventTrigger_C /Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0
+[2025.06.23-18.16.23:838][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:838][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:839][108]LogActorFactory: Actor Factory spawned Blueprint /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger as actor: WolfDeerEventTrigger_C /Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0
+[2025.06.23-18.16.23:839][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:839][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:839][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:840][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:842][108]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:854][109]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:855][109]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:868][110]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:875][110]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:885][111]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:886][111]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:899][112]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:913][113]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:926][114]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:928][114]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:949][116]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:963][117]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:977][118]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:990][119]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.23:992][119]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:004][120]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:018][121]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:032][122]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:033][122]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:046][123]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:048][123]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:061][124]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:068][124]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:076][125]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:090][126]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:102][127]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:110][127]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:121][128]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:122][128]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:135][129]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:147][130]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:161][131]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:162][131]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:175][132]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:188][133]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:202][134]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:203][134]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:216][135]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:218][135]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:231][136]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:238][136]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:247][137]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:254][137]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:264][138]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:265][138]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:277][139]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:291][140]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:304][141]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:305][141]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:318][142]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:325][142]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:336][143]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:337][143]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:350][144]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:363][145]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:377][146]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:378][146]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:392][147]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:405][148]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:418][149]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:420][149]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:432][150]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:445][151]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:458][152]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:460][152]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:473][153]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:486][154]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:500][155]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:501][155]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:514][156]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:516][156]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:528][157]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:535][157]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:545][158]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:552][158]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:562][159]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:564][159]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_0.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:910][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.06.23-18.16.24:933][181]LogEditorActor: Deleted 0 Actors (0.059 secs)
+[2025.06.23-18.16.24:938][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger_C
+[2025.06.23-18.16.24:938][181]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger_C
+[2025.06.23-18.16.24:941][181]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:943][181]LogActorFactory: Actor Factory spawned Blueprint /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger as actor: WolfDeerEventTrigger_C /Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379
+[2025.06.23-18.16.24:943][181]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:944][181]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:944][181]LogActorFactory: Actor Factory spawned Blueprint /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger as actor: WolfDeerEventTrigger_C /Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379
+[2025.06.23-18.16.24:944][181]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:944][181]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:944][181]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.24:946][181]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.30:820][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.16.30:867][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Triggers/WolfDeerEventTrigger] ([2] browsable assets)...
+[2025.06.23-18.16.30:867][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triggers/WolfDeerEventTrigger]
+[2025.06.23-18.16.30:867][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triggers/WolfDeerEventTrigger" FILE="../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset" SILENT=true
+[2025.06.23-18.16.30:870][612]LogSavePackage: Moving output files for package: /Game/Triggers/WolfDeerEventTrigger
+[2025.06.23-18.16.30:871][612]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfDeerEventTriggerADA01C6442860D9E0CCCD0B736F54206.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset'
+[2025.06.23-18.16.30:877][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.095 ms (total: 6.62 sec)
+[2025.06.23-18.16.30:900][612]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.16.30:900][612]LogContentValidation: Enabled validators:
+[2025.06.23-18.16.30:900][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.16.30:900][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.16.30:900][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.16.30:900][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.16.30:900][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.16.30:900][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.16.30:901][612]AssetCheck: /Game/Triggers/WolfDeerEventTrigger Validating asset
+[2025.06.23-18.16.45:945][712]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.45:957][713]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.45:970][714]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.45:981][715]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:005][716]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:028][717]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:050][718]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:073][719]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:095][720]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:118][721]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:142][722]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:164][723]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:188][724]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:210][725]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:234][726]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:256][727]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:279][728]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:302][729]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:324][730]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:348][731]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:371][732]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:394][733]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:418][734]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:441][735]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:463][736]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:533][739]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:604][743]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:630][745]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:667][747]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:716][750]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.46:920][765]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.47:258][791]Cmd: TRANSACTION UNDO
+[2025.06.23-18.16.47:258][791]LogEditorTransaction: Undo Move Elements
+[2025.06.23-18.16.47:259][791]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.52:306][171]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.16.53:372][255]Cmd: TRANSACTION UNDO
+[2025.06.23-18.16.53:372][255]LogEditorTransaction: Undo Change Collision Profile
+[2025.06.23-18.16.53:373][255]PIE: Warning: AttachTo: '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.DefaultSceneRoot' is not static  (in blueprint "WolfDeerEventTrigger"), cannot attach '/Game/Maps/L1_WinterForest.L1_WinterForest:PersistentLevel.WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379.StaticMesh' which is static to it. Aborting.
+[2025.06.23-18.17.04:498][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.17.04:545][ 22]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Triggers/WolfDeerEventTrigger] ([2] browsable assets)...
+[2025.06.23-18.17.04:555][ 22]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Triggers/WolfDeerEventTrigger.WolfDeerEventTrigger]
+[2025.06.23-18.17.04:557][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triggers/WolfDeerEventTrigger]
+[2025.06.23-18.17.04:557][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triggers/WolfDeerEventTrigger" FILE="../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset" SILENT=true
+[2025.06.23-18.17.04:559][ 22]LogSavePackage: Moving output files for package: /Game/Triggers/WolfDeerEventTrigger
+[2025.06.23-18.17.04:560][ 22]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfDeerEventTriggerDB08E94A443CE5158582198A4CB5C904.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset'
+[2025.06.23-18.17.04:565][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.181 ms (total: 6.69 sec)
+[2025.06.23-18.17.04:587][ 22]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.17.04:587][ 22]LogContentValidation: Enabled validators:
+[2025.06.23-18.17.04:587][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.17.04:587][ 22]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.17.04:587][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.17.04:587][ 22]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.17.04:587][ 22]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.17.04:587][ 22]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.17.04:587][ 22]AssetCheck: /Game/Triggers/WolfDeerEventTrigger Validating asset
+[2025.06.23-18.17.10:745][470]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.17.10:809][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.06.23-18.17.10:829][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.17.10:851][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.23-18.17.10:853][470]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/0/Y9/4RUJR6YH9YGDB9K87FF941
+[2025.06.23-18.17.10:853][470]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/4RUJR6YH9YGDB9K87FF9418ADCDD4E4B4F95EDE79ED297EBF07423.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/0/Y9/4RUJR6YH9YGDB9K87FF941.uasset'
+[2025.06.23-18.17.10:864][470]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.794 ms (total: 6.81 sec)
+[2025.06.23-18.17.10:888][470]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.17.10:888][470]LogContentValidation: Enabled validators:
+[2025.06.23-18.17.10:888][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.17.10:888][470]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.17.10:888][470]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.17.10:888][470]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.17.10:888][470]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.17.10:888][470]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.17.10:888][470]AssetCheck: /Game/Maps/L1_WinterForest Validating asset
+[2025.06.23-18.17.32:853][392]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.17.32:920][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.06.23-18.17.32:942][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.23-18.17.32:963][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.17.32:965][392]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/0/Y9/4RUJR6YH9YGDB9K87FF941
+[2025.06.23-18.17.32:965][392]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/4RUJR6YH9YGDB9K87FF9414D840B1D49A921D3BBDF1AA1799E4C55.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/0/Y9/4RUJR6YH9YGDB9K87FF941.uasset'
+[2025.06.23-18.17.32:974][392]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.194 ms (total: 6.93 sec)
+[2025.06.23-18.17.33:001][392]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.17.33:001][392]LogContentValidation: Enabled validators:
+[2025.06.23-18.17.33:001][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.17.33:001][392]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.17.33:001][392]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.17.33:001][392]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.17.33:001][392]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.17.33:001][392]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.17.33:001][392]AssetCheck: /Game/Maps/L1_WinterForest Validating asset
+[2025.06.23-18.17.37:922][709]Cmd: TRANSACTION UNDO
+[2025.06.23-18.17.37:922][709]LogEditorTransaction: Undo Edit Static Mesh
+[2025.06.23-18.17.45:238][182]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.23-18.17.45:242][182]LogContentBundle: [L1_WinterForest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.23-18.17.45:242][182]LogWorldPartition: Display: GenerateStreaming for 'L1_WinterForest' started...
+[2025.06.23-18.17.45:266][182]LogWorldPartition: Display: GenerateStreaming for 'L1_WinterForest' took 24.576 ms (total: 121.153 ms)
+[2025.06.23-18.17.45:269][182]LogPlayLevel: [PlayLevel] Compiling Deer before play...
+[2025.06.23-18.17.45:321][182]LogPlayLevel: [PlayLevel] Compiling Wolf before play...
+[2025.06.23-18.17.45:390][182]LogPlayLevel: [PlayLevel] Compiling WolfDeerEventTrigger before play...
+[2025.06.23-18.17.45:467][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.06.23-18.17.45:469][182]LogPlayLevel: PlayLevel: Blueprint regeneration took 200 ms (3 blueprints)
+[2025.06.23-18.17.45:508][182]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L1_WinterForest
+[2025.06.23-18.17.45:552][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044244s)
+[2025.06.23-18.17.45:552][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L1_WinterForest.L1_WinterForest to /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest (0.044336s)
+[2025.06.23-18.17.45:570][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.06.23-18.17.45:571][182]LogChaosDD: Creating Chaos Debug Draw Scene for world L1_WinterForest
+[2025.06.23-18.17.45:572][182]LogWorldPartition: ULevel::OnLevelLoaded(L1_WinterForest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.23-18.17.45:572][182]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.23-18.17.45:572][182]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.23-18.17.45:572][182]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.23-18.17.45:588][182]LogWorldPartition: Display: WorldPartition initialize took 14.840 ms (total: 519.443 ms)
+[2025.06.23-18.17.45:588][182]LogPlayLevel: PIE: World Init took: (0.016358s)
+[2025.06.23-18.17.45:588][182]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.06.23-18.17.45:588][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.23-18.17.45:588][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.23-18.17.45:588][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.23-18.17.45:588][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.23-18.17.45:588][182]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.23-18.17.45:588][182]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.23-18.17.45:588][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.23-18.17.45:588][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.23-18.17.45:588][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.23-18.17.45:589][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.23-18.17.45:589][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.23-18.17.45:591][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.23-18.17.45:613][182]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.06.23-18.17.45:613][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.23-18.17.45:613][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.23-18.17.45:613][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.23-18.17.45:613][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.06.23-18.17.45:613][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.06.23-18.17.45:618][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.06.23-18.17.45:618][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.06.23-18.17.45:618][182]LogInit: FAudioDevice initialized with ID 10.
+[2025.06.23-18.17.45:618][182]LogAudio: Display: Audio Device (ID: 10) registered with world 'L1_WinterForest'.
+[2025.06.23-18.17.45:618][182]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.06.23-18.17.45:621][182]LogLoad: Game class is 'BleedingRosesGameMode'
+[2025.06.23-18.17.45:647][182]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest up for play (max tick rate 0) at 2025.06.23-14.17.45
+[2025.06.23-18.17.45:647][182]LogWorld: Bringing up level for play took: 0.026136
+[2025.06.23-18.17.45:650][182]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.06.23-18.17.45:655][182]PIE: Server logged in
+[2025.06.23-18.17.45:655][182]PIE: Play in editor total start time 0.414 seconds.
+[2025.06.23-18.17.49:638][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.23-18.17.49:638][524]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L1_WinterForest
+[2025.06.23-18.17.49:639][524]LogWorld: UWorld::CleanupWorld for L1_WinterForest, bSessionEnded=true, bCleanupResources=true
+[2025.06.23-18.17.49:647][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.23-18.17.49:648][524]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest
+[2025.06.23-18.17.49:652][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.23-18.17.49:657][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.23-18.17.49:682][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.23-18.17.49:684][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.06.23-18.17.49:684][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.06.23-18.17.49:686][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.06.23-18.17.49:697][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.06.23-18.17.49:762][525]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.06.23-18.18.09:020][901]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.23-18.18.09:024][901]LogContentBundle: [L1_WinterForest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.23-18.18.09:024][901]LogWorldPartition: Display: GenerateStreaming for 'L1_WinterForest' started...
+[2025.06.23-18.18.09:048][901]LogWorldPartition: Display: GenerateStreaming for 'L1_WinterForest' took 24.772 ms (total: 145.925 ms)
+[2025.06.23-18.18.09:049][901]LogPlayLevel: [PlayLevel] Compiling WolfDeerEventTrigger before play...
+[2025.06.23-18.18.09:131][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.06.23-18.18.09:132][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2025.06.23-18.18.09:134][901]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L1_WinterForest
+[2025.06.23-18.18.09:172][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038018s)
+[2025.06.23-18.18.09:172][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L1_WinterForest.L1_WinterForest to /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest (0.038049s)
+[2025.06.23-18.18.09:192][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.06.23-18.18.09:193][901]LogChaosDD: Creating Chaos Debug Draw Scene for world L1_WinterForest
+[2025.06.23-18.18.09:194][901]LogWorldPartition: ULevel::OnLevelLoaded(L1_WinterForest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.23-18.18.09:194][901]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.23-18.18.09:194][901]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.23-18.18.09:194][901]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.23-18.18.09:210][901]LogWorldPartition: Display: WorldPartition initialize took 15.324 ms (total: 534.768 ms)
+[2025.06.23-18.18.09:210][901]LogPlayLevel: PIE: World Init took: (0.016792s)
+[2025.06.23-18.18.09:210][901]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.06.23-18.18.09:210][901]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.23-18.18.09:210][901]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.23-18.18.09:210][901]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.23-18.18.09:210][901]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.23-18.18.09:210][901]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.23-18.18.09:210][901]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.23-18.18.09:210][901]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.23-18.18.09:210][901]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.23-18.18.09:210][901]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.23-18.18.09:210][901]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.23-18.18.09:210][901]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.23-18.18.09:213][901]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.23-18.18.09:233][901]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.06.23-18.18.09:233][901]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.23-18.18.09:233][901]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.23-18.18.09:233][901]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.23-18.18.09:233][901]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.06.23-18.18.09:233][901]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.06.23-18.18.09:237][901]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.06.23-18.18.09:237][901]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.06.23-18.18.09:237][901]LogInit: FAudioDevice initialized with ID 11.
+[2025.06.23-18.18.09:237][901]LogAudio: Display: Audio Device (ID: 11) registered with world 'L1_WinterForest'.
+[2025.06.23-18.18.09:237][901]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.06.23-18.18.09:240][901]LogLoad: Game class is 'BleedingRosesGameMode'
+[2025.06.23-18.18.09:264][901]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest up for play (max tick rate 0) at 2025.06.23-14.18.09
+[2025.06.23-18.18.09:264][901]LogWorld: Bringing up level for play took: 0.024435
+[2025.06.23-18.18.09:268][901]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.06.23-18.18.09:271][901]PIE: Server logged in
+[2025.06.23-18.18.09:274][901]PIE: Play in editor total start time 0.25 seconds.
+[2025.06.23-18.18.11:938][123]LogBlueprintUserMessages: [WolfDeerEventTrigger_C_UAID_04421A09062FD47402_1499852379] Overlap
+[2025.06.23-18.18.14:058][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.23-18.18.14:058][318]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L1_WinterForest
+[2025.06.23-18.18.14:058][318]LogWorld: UWorld::CleanupWorld for L1_WinterForest, bSessionEnded=true, bCleanupResources=true
+[2025.06.23-18.18.14:065][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.23-18.18.14:065][318]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest
+[2025.06.23-18.18.14:070][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.23-18.18.14:076][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.23-18.18.14:099][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.23-18.18.14:101][318]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.06.23-18.18.14:101][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.06.23-18.18.14:103][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.06.23-18.18.14:113][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.06.23-18.18.14:180][319]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.06.23-18.18.15:127][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.18.15:183][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.06.23-18.18.15:206][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.06.23-18.18.15:228][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.18.15:237][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.225 ms (total: 7.04 sec)
+[2025.06.23-18.18.51:484][976]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.18.51:536][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.06.23-18.18.51:558][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.18.51:578][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.18.51:581][976]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/0/Y9/4RUJR6YH9YGDB9K87FF941
+[2025.06.23-18.18.51:581][976]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/4RUJR6YH9YGDB9K87FF9419B2F1A1C457D28F9B01F82809AD4D8B1.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/0/Y9/4RUJR6YH9YGDB9K87FF941.uasset'
+[2025.06.23-18.18.51:591][976]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.174 ms (total: 7.14 sec)
+[2025.06.23-18.18.51:614][976]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.18.51:614][976]LogContentValidation: Enabled validators:
+[2025.06.23-18.18.51:614][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.18.51:614][976]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.18.51:614][976]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.18.51:614][976]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.18.51:614][976]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.18.51:614][976]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.18.51:615][976]AssetCheck: /Game/Maps/L1_WinterForest Validating asset
+[2025.06.23-18.18.54:888][243]Cmd: DELETE
+[2025.06.23-18.18.54:888][243]Cmd: ACTOR DELETE
+[2025.06.23-18.18.54:896][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.23-18.18.54:899][243]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.23-18.18.54:921][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.06.23-18.18.54:924][243]LogEditorActor: Deleted 2 Actors (0.036 secs)
+[2025.06.23-18.19.04:676][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.19.04:741][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.06.23-18.19.04:761][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.06.23-18.19.04:783][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.06.23-18.19.04:791][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.630 ms (total: 7.26 sec)
+[2025.06.23-18.19.24:118][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.19.24:174][286]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Triggers/WolfDeerEventTrigger] ([2] browsable assets)...
+[2025.06.23-18.19.24:174][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triggers/WolfDeerEventTrigger]
+[2025.06.23-18.19.24:174][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triggers/WolfDeerEventTrigger" FILE="../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset" SILENT=true
+[2025.06.23-18.19.24:178][286]LogSavePackage: Moving output files for package: /Game/Triggers/WolfDeerEventTrigger
+[2025.06.23-18.19.24:179][286]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfDeerEventTrigger52CD8E754537864EC92AA28E33B3EE2A.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset'
+[2025.06.23-18.19.24:185][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.123 ms (total: 7.33 sec)
+[2025.06.23-18.19.24:210][286]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.19.24:211][286]LogContentValidation: Enabled validators:
+[2025.06.23-18.19.24:211][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.19.24:211][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.19.24:211][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.19.24:211][286]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.19.24:211][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.19.24:211][286]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.19.24:211][286]AssetCheck: /Game/Triggers/WolfDeerEventTrigger Validating asset
+[2025.06.23-18.19.42:853][673]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.23-18.19.46:794][980]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.23-18.19.47:451][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.19.47:498][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.06.23-18.19.47:522][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.06.23-18.19.47:543][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.19.47:545][ 20]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/5/P5/GEIL7G33BNV02VH7U1X9FY
+[2025.06.23-18.19.47:545][ 20]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/GEIL7G33BNV02VH7U1X9FY7CFA205C4BC7B9A870930A9AADEB33A0.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/5/P5/GEIL7G33BNV02VH7U1X9FY.uasset'
+[2025.06.23-18.19.47:547][ 20]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Maps/L1_WinterForest/0/Y9/4RUJR6YH9YGDB9K87FF941
+[2025.06.23-18.19.47:547][ 20]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/4RUJR6YH9YGDB9K87FF941BF6BD41448A12EC4EAFFE49E09D29193.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/__ExternalActors__/Maps/L1_WinterForest/0/Y9/4RUJR6YH9YGDB9K87FF941.uasset'
+[2025.06.23-18.19.47:555][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.025 ms (total: 7.43 sec)
+[2025.06.23-18.19.47:582][ 20]LogContentValidation: Display: Starting to validate 2 assets
+[2025.06.23-18.19.47:582][ 20]LogContentValidation: Enabled validators:
+[2025.06.23-18.19.47:582][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.19.47:582][ 20]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.19.47:582][ 20]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.19.47:582][ 20]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.19.47:582][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.19.47:582][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.19.47:582][ 20]AssetCheck: /Game/Maps/L1_WinterForest Validating asset
+[2025.06.23-18.19.55:782][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.19.55:850][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.06.23-18.19.55:867][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.23-18.19.55:888][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.23-18.19.55:895][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.353 ms (total: 7.54 sec)
+[2025.06.23-18.21.02:145][663]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6520.732910
+[2025.06.23-18.21.02:234][670]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-18.21.02:234][670]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6520.809082, Update Interval: 320.645782
+[2025.06.23-18.25.53:124][722]LogAutomationController: Ignoring very large delta of 3.37 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.23-18.26.05:769][674]LogSlate: Took 0.005633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.06.23-18.26.17:737][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.26.17:778][613]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/Wolf] ([2] browsable assets)...
+[2025.06.23-18.26.17:834][613]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Wolf.Wolf]
+[2025.06.23-18.26.17:834][613]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Wolf]
+[2025.06.23-18.26.17:834][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Wolf" FILE="../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset" SILENT=true
+[2025.06.23-18.26.17:842][613]LogSavePackage: Moving output files for package: /Game/Actors/Wolf
+[2025.06.23-18.26.17:843][613]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfD9975E9045031190E8EBE0A09EAD278F.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset'
+[2025.06.23-18.26.17:850][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.514 ms (total: 7.66 sec)
+[2025.06.23-18.26.17:877][613]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.26.17:877][613]LogContentValidation: Enabled validators:
+[2025.06.23-18.26.17:877][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.26.17:877][613]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.26.17:877][613]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.26.17:877][613]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.26.17:877][613]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.26.17:877][613]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.26.17:877][613]AssetCheck: /Game/Actors/Wolf Validating asset
+[2025.06.23-18.26.19:536][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.06.23-18.26.27:085][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.26.27:128][319]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/Wolf] ([2] browsable assets)...
+[2025.06.23-18.26.27:183][319]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Wolf.Wolf]
+[2025.06.23-18.26.27:183][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Wolf]
+[2025.06.23-18.26.27:183][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Wolf" FILE="../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset" SILENT=true
+[2025.06.23-18.26.27:188][319]LogSavePackage: Moving output files for package: /Game/Actors/Wolf
+[2025.06.23-18.26.27:188][319]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/Wolf8DED4074434FBA35B9DE1EB5FBD845AB.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset'
+[2025.06.23-18.26.27:195][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.809 ms (total: 7.77 sec)
+[2025.06.23-18.26.27:223][319]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.26.27:223][319]LogContentValidation: Enabled validators:
+[2025.06.23-18.26.27:223][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.26.27:224][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.26.27:224][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.26.27:224][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.26.27:224][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.26.27:224][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.26.27:224][319]AssetCheck: /Game/Actors/Wolf Validating asset
+[2025.06.23-18.27.14:030][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6892.602051
+[2025.06.23-18.27.14:089][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-18.27.14:089][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6892.648926, Update Interval: 351.091644
+[2025.06.23-18.28.07:654][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.23-18.28.07:656][494]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L1_WinterForest' took 0.028
+[2025.06.23-18.28.07:657][494]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/Wolf] ([2] browsable assets)...
+[2025.06.23-18.28.07:748][494]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Wolf.Wolf]
+[2025.06.23-18.28.07:748][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Wolf]
+[2025.06.23-18.28.07:748][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Wolf" FILE="../../../../BleedingRoses/BleedingRoses/Saved/Autosaves/Game/Actors/Wolf_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.06.23-18.28.07:753][494]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/Wolf_Auto4
+[2025.06.23-18.28.07:753][494]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/Wolf_Auto4C7A14E4F43BD86B56349D1B706EAC8DD.tmp' to '../../../../BleedingRoses/BleedingRoses/Saved/Autosaves/Game/Actors/Wolf_Auto4.uasset'
+[2025.06.23-18.28.07:754][494]LogFileHelpers: Auto-saving content packages took 0.098
+[2025.06.23-18.28.49:816][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.28.49:861][539]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/Wolf] ([2] browsable assets)...
+[2025.06.23-18.28.49:915][539]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Wolf.Wolf]
+[2025.06.23-18.28.49:915][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Wolf]
+[2025.06.23-18.28.49:915][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Wolf" FILE="../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset" SILENT=true
+[2025.06.23-18.28.49:922][539]LogSavePackage: Moving output files for package: /Game/Actors/Wolf
+[2025.06.23-18.28.49:922][539]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfDA70CC324C75D609853EB692F7C69A2E.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset'
+[2025.06.23-18.28.49:929][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.821 ms (total: 7.88 sec)
+[2025.06.23-18.28.49:955][539]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.28.49:955][539]LogContentValidation: Enabled validators:
+[2025.06.23-18.28.49:955][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.28.49:955][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.28.49:955][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.28.49:955][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.28.49:955][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.28.49:955][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.28.49:955][539]AssetCheck: /Game/Actors/Wolf Validating asset
+[2025.06.23-18.28.53:657][839]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.23-18.28.53:661][839]LogContentBundle: [L1_WinterForest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.23-18.28.53:661][839]LogWorldPartition: Display: GenerateStreaming for 'L1_WinterForest' started...
+[2025.06.23-18.28.53:689][839]LogWorldPartition: Display: GenerateStreaming for 'L1_WinterForest' took 28.913 ms (total: 174.839 ms)
+[2025.06.23-18.28.53:690][839]LogPlayLevel: [PlayLevel] Compiling Wolf before play...
+[2025.06.23-18.28.53:694][839]LogBlueprint: Error: [AssetLog] C:\Users\dpres\Documents\Projects\BleedingRoses\BleedingRoses\Content\Actors\Wolf.uasset: [Compiler] This blueprint (self) is not a AnimInstance, therefore ' Target ' must have a connection.
+[2025.06.23-18.28.53:713][839]LogStreaming: Display: FlushAsyncLoading(2466): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.23-18.28.53:730][839]LogTexture: Display: Building textures: /Engine/EditorResources/BadBlueprintSprite.BadBlueprintSprite (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2025.06.23-18.28.53:765][839]LogPlayLevel: [PlayLevel] Compiling WolfDeerEventTrigger before play...
+[2025.06.23-18.28.53:848][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.23-18.28.53:850][839]LogPlayLevel: PlayLevel: Blueprint regeneration took 159 ms (2 blueprints)
+[2025.06.23-18.28.53:850][839]BlueprintLog: Warning: Blueprint failed to compile:  Wolf
+[2025.06.23-18.28.56:692][839]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.06.23-18.28.56:789][839]LogAutomationController: Ignoring very large delta of 3.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.23-18.33.55:266][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7293.809082
+[2025.06.23-18.33.55:357][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-18.33.55:357][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7293.886719, Update Interval: 318.305603
+[2025.06.23-18.34.16:501][713]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.23-18.38.08:037][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.06.23-18.38.08:040][709]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L1_WinterForest' took 0.031
+[2025.06.23-18.38.08:040][709]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/Wolf] ([2] browsable assets)...
+[2025.06.23-18.38.08:097][709]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Wolf.Wolf]
+[2025.06.23-18.38.08:097][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Wolf]
+[2025.06.23-18.38.08:097][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Wolf" FILE="../../../../BleedingRoses/BleedingRoses/Saved/Autosaves/Game/Actors/Wolf_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2025.06.23-18.38.08:103][709]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/Wolf_Auto5
+[2025.06.23-18.38.08:103][709]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/Wolf_Auto5DA18206A4AE31D73F3D4A5A7664E6184.tmp' to '../../../../BleedingRoses/BleedingRoses/Saved/Autosaves/Game/Actors/Wolf_Auto5.uasset'
+[2025.06.23-18.38.08:104][709]LogFileHelpers: Auto-saving content packages took 0.063
+[2025.06.23-18.40.06:758][949]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7665.319336
+[2025.06.23-18.40.06:836][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-18.40.06:836][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7665.385254, Update Interval: 345.805237
+[2025.06.23-18.43.46:478][717]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.43.46:517][717]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/Wolf] ([2] browsable assets)...
+[2025.06.23-18.43.46:573][717]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Wolf.Wolf]
+[2025.06.23-18.43.46:573][717]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Wolf]
+[2025.06.23-18.43.46:573][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Wolf" FILE="../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset" SILENT=true
+[2025.06.23-18.43.46:579][717]LogSavePackage: Moving output files for package: /Game/Actors/Wolf
+[2025.06.23-18.43.46:579][717]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfCE18855943CE668B3679339E82DE1725.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset'
+[2025.06.23-18.43.46:587][717]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.640 ms (total: 7.99 sec)
+[2025.06.23-18.43.46:613][717]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.43.46:613][717]LogContentValidation: Enabled validators:
+[2025.06.23-18.43.46:613][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.43.46:613][717]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.43.46:613][717]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.43.46:613][717]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.43.46:613][717]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.43.46:613][717]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.43.46:613][717]AssetCheck: /Game/Actors/Wolf Validating asset
+[2025.06.23-18.43.59:201][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.43.59:234][664]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/Wolf] ([2] browsable assets)...
+[2025.06.23-18.43.59:289][664]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Wolf.Wolf]
+[2025.06.23-18.43.59:289][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Wolf]
+[2025.06.23-18.43.59:289][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Wolf" FILE="../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset" SILENT=true
+[2025.06.23-18.43.59:295][664]LogSavePackage: Moving output files for package: /Game/Actors/Wolf
+[2025.06.23-18.43.59:295][664]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfF380117F45832289E28DADB0C962F289.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset'
+[2025.06.23-18.43.59:301][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.120 ms (total: 8.09 sec)
+[2025.06.23-18.43.59:324][664]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.43.59:324][664]LogContentValidation: Enabled validators:
+[2025.06.23-18.43.59:324][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.43.59:324][664]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.43.59:324][664]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.43.59:324][664]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.43.59:324][664]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.43.59:324][664]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.43.59:324][664]AssetCheck: /Game/Actors/Wolf Validating asset
+[2025.06.23-18.44.03:603][  0]LogSlate: Window 'Message Log' being destroyed
+[2025.06.23-18.44.03:639][  0]LogSlate: Window 'Message Log' being destroyed
+[2025.06.23-18.44.04:511][ 73]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.23-18.44.04:516][ 73]LogContentBundle: [L1_WinterForest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.23-18.44.04:516][ 73]LogWorldPartition: Display: GenerateStreaming for 'L1_WinterForest' started...
+[2025.06.23-18.44.04:542][ 73]LogWorldPartition: Display: GenerateStreaming for 'L1_WinterForest' took 25.617 ms (total: 200.456 ms)
+[2025.06.23-18.44.04:543][ 73]LogPlayLevel: [PlayLevel] Compiling Wolf before play...
+[2025.06.23-18.44.04:656][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.06.23-18.44.04:657][ 73]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2025.06.23-18.44.04:687][ 73]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_L1_WinterForest
+[2025.06.23-18.44.04:729][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042217s)
+[2025.06.23-18.44.04:730][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/L1_WinterForest.L1_WinterForest to /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest (0.042254s)
+[2025.06.23-18.44.04:752][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.06.23-18.44.04:753][ 73]LogChaosDD: Creating Chaos Debug Draw Scene for world L1_WinterForest
+[2025.06.23-18.44.04:754][ 73]LogWorldPartition: ULevel::OnLevelLoaded(L1_WinterForest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.23-18.44.04:754][ 73]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.23-18.44.04:754][ 73]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.23-18.44.04:754][ 73]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.23-18.44.04:770][ 73]LogWorldPartition: Display: WorldPartition initialize took 15.400 ms (total: 550.168 ms)
+[2025.06.23-18.44.04:770][ 73]LogPlayLevel: PIE: World Init took: (0.017012s)
+[2025.06.23-18.44.04:771][ 73]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.06.23-18.44.04:771][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.23-18.44.04:771][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.23-18.44.04:771][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.23-18.44.04:771][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.23-18.44.04:771][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.23-18.44.04:771][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.23-18.44.04:771][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.23-18.44.04:771][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.23-18.44.04:771][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.23-18.44.04:771][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.23-18.44.04:771][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.23-18.44.04:773][ 73]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.23-18.44.04:795][ 73]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2025.06.23-18.44.04:796][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.23-18.44.04:796][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.23-18.44.04:796][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.23-18.44.04:796][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.06.23-18.44.04:796][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.06.23-18.44.04:799][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.06.23-18.44.04:799][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.06.23-18.44.04:799][ 73]LogInit: FAudioDevice initialized with ID 12.
+[2025.06.23-18.44.04:799][ 73]LogAudio: Display: Audio Device (ID: 12) registered with world 'L1_WinterForest'.
+[2025.06.23-18.44.04:799][ 73]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.23-18.44.04:802][ 73]LogLoad: Game class is 'BleedingRosesGameMode'
+[2025.06.23-18.44.04:827][ 73]LogWorld: Bringing World /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest up for play (max tick rate 0) at 2025.06.23-14.44.04
+[2025.06.23-18.44.04:827][ 73]LogWorld: Bringing up level for play took: 0.024557
+[2025.06.23-18.44.04:830][ 73]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2025.06.23-18.44.04:834][ 73]PIE: Server logged in
+[2025.06.23-18.44.04:835][ 73]PIE: Play in editor total start time 0.319 seconds.
+[2025.06.23-18.44.18:907][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.23-18.44.18:907][118]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_L1_WinterForest
+[2025.06.23-18.44.18:908][118]LogWorld: UWorld::CleanupWorld for L1_WinterForest, bSessionEnded=true, bCleanupResources=true
+[2025.06.23-18.44.18:915][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.23-18.44.18:916][118]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Maps/UEDPIE_0_L1_WinterForest.L1_WinterForest
+[2025.06.23-18.44.18:922][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.23-18.44.18:927][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.23-18.44.18:954][118]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.23-18.44.18:955][118]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.06.23-18.44.18:955][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.06.23-18.44.18:957][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.06.23-18.44.18:962][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.23-18.44.18:970][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.06.23-18.44.19:035][119]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2025.06.23-18.44.44:104][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.44.44:155][874]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Triggers/WolfDeerEventTrigger] ([2] browsable assets)...
+[2025.06.23-18.44.44:157][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triggers/WolfDeerEventTrigger]
+[2025.06.23-18.44.44:157][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Triggers/WolfDeerEventTrigger" FILE="../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset" SILENT=true
+[2025.06.23-18.44.44:159][874]LogSavePackage: Moving output files for package: /Game/Triggers/WolfDeerEventTrigger
+[2025.06.23-18.44.44:160][874]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfDeerEventTrigger19A48AA14324CE964E6EC1B1CB1FAA45.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Triggers/WolfDeerEventTrigger.uasset'
+[2025.06.23-18.44.44:168][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.825 ms (total: 8.15 sec)
+[2025.06.23-18.44.44:188][874]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.44.44:188][874]LogContentValidation: Enabled validators:
+[2025.06.23-18.44.44:188][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.44.44:188][874]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.44.44:188][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.44.44:188][874]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.44.44:188][874]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.44.44:188][874]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.44.44:188][874]AssetCheck: /Game/Triggers/WolfDeerEventTrigger Validating asset
+[2025.06.23-18.45.04:917][347]LogAutomationController: Ignoring very large delta of 2.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.23-18.45.54:611][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.23-18.45.54:662][899]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Actors/Wolf] ([2] browsable assets)...
+[2025.06.23-18.45.54:720][899]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/Wolf.Wolf]
+[2025.06.23-18.45.54:720][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/Wolf]
+[2025.06.23-18.45.54:720][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Wolf" FILE="../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset" SILENT=true
+[2025.06.23-18.45.54:725][899]LogSavePackage: Moving output files for package: /Game/Actors/Wolf
+[2025.06.23-18.45.54:727][899]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/Wolf068ADF5A4376C79FCB4DD4846850FE6F.tmp' to '../../../../BleedingRoses/BleedingRoses/Content/Actors/Wolf.uasset'
+[2025.06.23-18.45.54:734][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.237 ms (total: 8.28 sec)
+[2025.06.23-18.45.54:755][899]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.23-18.45.54:755][899]LogContentValidation: Enabled validators:
+[2025.06.23-18.45.54:755][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.23-18.45.54:755][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.23-18.45.54:755][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.23-18.45.54:755][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.23-18.45.54:755][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.23-18.45.54:755][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.23-18.45.54:755][899]AssetCheck: /Game/Actors/Wolf Validating asset
+[2025.06.23-18.46.31:024][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8049.576660
+[2025.06.23-18.46.31:093][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-18.46.31:093][525]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8049.631836, Update Interval: 349.335602
+[2025.06.23-18.48.23:155][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.23-18.48.23:157][139]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/L1_WinterForest' took 0.027
+[2025.06.23-18.48.23:157][139]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Triggers/WolfDeerEventTrigger] ([2] browsable assets)...
+[2025.06.23-18.48.23:157][139]OBJ SavePackage: Finished generating thumbnails for package [/Game/Triggers/WolfDeerEventTrigger]
+[2025.06.23-18.48.23:164][139]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Triggers/WolfDeerEventTrigger_Auto6
+[2025.06.23-18.48.23:164][139]LogSavePackage: Moving '../../../../BleedingRoses/BleedingRoses/Saved/WolfDeerEventTrigger_Auto6D7260FAF438B6C93EDD1FF874C3B1384.tmp' to '../../../../BleedingRoses/BleedingRoses/Saved/Autosaves/Game/Triggers/WolfDeerEventTrigger_Auto6.uasset'
+[2025.06.23-18.48.23:165][139]LogFileHelpers: Auto-saving content packages took 0.008
+[2025.06.23-18.53.15:493][ 16]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8454.051758
+[2025.06.23-18.53.16:499][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-18.53.16:499][ 20]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8454.718750, Update Interval: 351.695923
+[2025.06.23-18.59.59:882][229]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8858.452148
+[2025.06.23-19.00.00:876][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.00.00:876][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8859.113281, Update Interval: 300.675690
+[2025.06.23-19.05.54:585][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9213.180664
+[2025.06.23-19.05.55:585][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.05.55:585][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9213.855469, Update Interval: 357.634216
+[2025.06.23-19.12.25:303][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9603.909180
+[2025.06.23-19.12.26:304][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.12.26:304][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9604.583984, Update Interval: 353.730286
+[2025.06.23-19.19.00:023][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9998.626953
+[2025.06.23-19.19.01:024][652]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.19.01:024][652]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9999.299805, Update Interval: 335.314789
+[2025.06.23-19.25.20:096][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10378.694336
+[2025.06.23-19.25.21:090][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.25.21:090][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10379.353516, Update Interval: 307.020477
+[2025.06.23-19.31.05:457][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10724.048828
+[2025.06.23-19.31.06:460][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.31.06:460][829]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10724.715820, Update Interval: 333.395782
+[2025.06.23-19.34.16:502][399]LogDerivedDataCache: ../../../Engine/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.23-19.37.31:498][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11110.079102
+[2025.06.23-19.37.32:491][986]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.37.32:491][986]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11110.739258, Update Interval: 315.844604
+[2025.06.23-19.43.42:202][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11480.788086
+[2025.06.23-19.43.43:206][ 98]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.43.43:206][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11481.458008, Update Interval: 346.189758
+[2025.06.23-19.50.10:590][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11869.165039
+[2025.06.23-19.50.11:588][263]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.50.11:588][263]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11869.834961, Update Interval: 358.586395
+[2025.06.23-19.56.42:980][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12261.562500
+[2025.06.23-19.56.43:981][440]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.23-19.56.43:981][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12262.228516, Update Interval: 325.412140
